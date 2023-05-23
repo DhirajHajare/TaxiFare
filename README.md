@@ -1,0 +1,2 @@
+# TaxiFare
+The Taxifare project is a data science endeavor that focuses on predicting taxi fares. It involves collecting and analyzing a dataset of historical taxi trips, developing a predictive model based on various factors such as distance, time, and location, and evaluating and optimizing the model's performance. The goal is to create an accurate tool for estimating taxi fares, benefiting both taxi service providers and customers.
